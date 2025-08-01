@@ -1,13 +1,6 @@
 # SafeOS 🔐
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Platform-Android-green.svg" alt="Platform">
-  <img src="https://img.shields.io/badge/Language-Java%2FKotlin-orange.svg" alt="Language">
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
-  <img src="https://img.shields.io/badge/Version-6.3.1-brightgreen.svg" alt="Version">
-</div>
-
-<div align="center">
   <h3>🛡️ Secure • Simple • Reliable</h3>
   <p><strong>A modern, secure, and user-friendly password manager for Android with offline-first approach</strong></p>
 </div>
