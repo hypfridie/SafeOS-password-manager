@@ -239,8 +239,3 @@ If SafeOS has been helpful to you, please consider:
 - **Twitter:** https://x.com/hypfridie
 
 ---
-
-<div align="center">
-  <p><strong>Built with ❤️ for secure digital living</strong></p>
-  <p>SafeOS - Your passwords, truly secure. 🛡️</p>
-</div>
