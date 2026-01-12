@@ -76,7 +76,7 @@ Changes will be reflected here with a revised date.
 
 If you have questions about this Privacy Policy, contact us at:
 
-**Email:** your-email@example.com  
+**Email:** ayusharyan.online@gmail.com  
 (Replace with your Play Console developer email)
 
 ---
