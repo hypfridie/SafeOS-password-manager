@@ -2,7 +2,7 @@
 
 **Last updated:** January 2026
 
-SafeOS (“we”, “our”, or “us”) respects your privacy. This Privacy Policy explains how **SafeOS – Password Manager** handles user data.
+SafeOS respects your privacy. This Privacy Policy explains how **SafeOS – Password Manager** handles user data.
 
 ---
 
